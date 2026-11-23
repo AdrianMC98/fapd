@@ -1,2 +1,1 @@
-print("hola mundo")
-#solo para que si
+print("hola \n\t mundo")
