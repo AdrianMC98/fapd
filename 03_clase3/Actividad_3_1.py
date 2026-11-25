@@ -1,7 +1,7 @@
 # Ejercicio 1.1: Carga del Dataset e Inspección de Filas (head y tail)
 import pandas as pd
 
-df_estudiantes = pd.read_csv("C:\\Users\\adria\\Desktop\\00_fapd_total\\00_fapd\\00_DATA_Clase03_Archivos_Actividades\\DATA_Estudiantes.csv")
+df_estudiantes = pd.read_csv("00_fapd\\03_clase3\\00_DATA_Clase03_Archivos_Actividades\\DATA_Estudiantes.csv")
 print(df_estudiantes.head(5))  # Muestra las primeras 5 filas del DataFrame
 print(df_estudiantes.tail(5))  # Muestra las últimas 5 filas del Data
 
